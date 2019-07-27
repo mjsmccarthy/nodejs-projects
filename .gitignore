@@ -62,3 +62,5 @@ typings/
 
 # Playground code
 playground/
+
+.vscode
